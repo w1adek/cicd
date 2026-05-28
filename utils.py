@@ -1,4 +1,5 @@
-# przykladowe funkcje utils.py
+"""Module"""
+
 
 def add(a: int, b: int) -> int:
     """Addition"""
